@@ -4,6 +4,13 @@ Colorize is an open-source project that allows you to bring color to black-and-w
 
 The project is composed of two main components: a front-end (FE) where users can easily upload images, and a back-end (BE) that processes and colorizes the images using the DeOldify model. With clear setup instructions, you'll find it straightforward to configure the environment and start using the tool.
 
+# Demo video
+
+
+https://github.com/user-attachments/assets/ad5eb84d-2106-483c-88dd-7224f18f9c88
+
+
+
 ## Client
 
 Client is a web app which is based on react. it uses [React Material](https://mui.com/) as UI framework, and [Vite](https://vitejs.dev/) as a DEV tool.  
